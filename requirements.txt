@@ -1,0 +1,3 @@
+omegaconf
+ultralytics
+opencv-python
