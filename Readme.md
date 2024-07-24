@@ -63,9 +63,7 @@ This Python script demonstrates a practical application of AI in privacy-oriente
 # Author:
 
 Author: Mike Duran
-Company: Actimage GmbH
-Adress:  Hafenstraße 3, 77694 Kehl
-Contact: +49 7851 899730
+Contact: mike.duran@hotmail.de
 
 # Source:
 Yolo8: https://github.com/ultralytics/ultralytics
