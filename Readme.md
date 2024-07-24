@@ -63,6 +63,7 @@ This Python script demonstrates a practical application of AI in privacy-oriente
 # Author:
 
 Author: Mike Duran
+
 Contact: mike.duran@hotmail.de
 
 # Source:
